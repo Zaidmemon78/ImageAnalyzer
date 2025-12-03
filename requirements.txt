@@ -1,0 +1,6 @@
+torch
+torchvision
+Pillow
+numpy
+# Optional: tqdm (for progress bars during training)
+# pip install -r requirements.txt se install karna
