@@ -17,16 +17,23 @@ This model is built using **PyTorch** and can classify inputs into two categorie
 
 ## 📂 Project Structure
 image_AI/
+
 ├── data/ # Stores training and validation images
+
 ├── models/ # Stores the saved trained model (.pth)
+
 ├── get_real_images.py # Script to download dataset from Bing
+
 ├── train.py # Script to train the model
+
 ├── predict.py # Script to test on a single image
+
 ├── realtime_detect.py # Script for live webcam detection
+
 ├── model.py # Model architecture definition
-└── data_loader.py # Data loading and transformation logic
-code
-Code
+
+└── data_loader.py # Data loading and transformation logic code
+
 ## ⚙️ Installation
 
 1. Clone the repository:
